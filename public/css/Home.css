@@ -1,0 +1,6 @@
+  body{
+   background-image: url("../img/emilia-home.jpg");
+   background-repeat: no-repeat;
+  /*  background-size: cover; */
+   background-position: right 0;
+  }
